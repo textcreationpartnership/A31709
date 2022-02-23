@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Character of a town-gallant exposing the extravagant fopperies of some vain self-conceited pretenders to gentility, and good breeding.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31709</idno>
+            <idno type="STC">Wing C1993</idno>
+            <idno type="STC">ESTC R35806</idno>
+            <idno type="EEBO-CITATION">15563892</idno>
+            <idno type="OCLC">ocm 15563892</idno>
+            <idno type="VID">103770</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103770)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1184:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Character of a town-gallant exposing the extravagant fopperies of some vain self-conceited pretenders to gentility, and good breeding.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rowland Reynolds ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: faded and stained, with print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dandies --  England --  Anecdotes</term>
+               <term>Great Britain --  Social life and customs --  17th century.</term>
+               <term>Great Britain --  History --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:103770:1"/>
+            <head>THE CHARACTER OF A Town-Gallant; Expoſing the Extravagant Fopperies of ſome vain Self-conceited Pretenders to Gentility, and good Breeding.</head>
+            <p>
+               <seg rend="decorInit">A</seg> 
+               <hi>Town-Gallant</hi> is a Bundle of <hi>Vanity,</hi> compoſed of <hi>Igno<g ref="char:EOLhyphen"/>rance</hi> and <hi>Pride, Folly,</hi> and <hi>Debauchery;</hi> a ſilly <hi>Huffing</hi> thing, three parts <hi>Fop,</hi> and the reſt <hi>Hector:</hi> A kind of <hi>Walking Mercers ſhop:</hi> that ſhews one Stuff to day, and another to morrow, and is valuable juſt according to the price of his <hi>Suit,</hi> and the merits of his <hi>Taylor:</hi> A Spawn of <hi>Gentility,</hi> that inherits only the <hi>Vices</hi> of his Anceſtors, and is like to entail nothing but Infamy and Diſeaſes on Poſte<g ref="char:EOLhyphen"/>rity. His firſt care is his <hi>Dreſs,</hi> and next his <hi>Body,</hi> and in the fitting theſe two together, conſiſts his Soul and all its Faculties. His Trade is making of <hi>Love,</hi> yet he knows no difference between that and <hi>Luſt;</hi> and tell him of a <hi>Virgin</hi> at Sixteen, he ſhall ſwear then <hi>Miracles</hi> are not ceas'd. He is ſo bitter an Enemy to <hi>Marriage,</hi> that one would ſuſpect him born out of <hi>Lawful Wedlock,</hi> For he never hears <hi>Matrimony</hi> nam'd, but he ſweats and ſtarts as bad as at the Salute of a <hi>Serjeant,</hi> and has 40. Lines of <hi>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>jegium Conjurgium,</hi> got ready by heart to rail at it. But for the moſt delicious Regre<g ref="char:EOLhyphen"/>ation of <hi>Whoring,</hi> he proteſts a Gentleman cannot live without it; And vows <hi>Mahomet</hi> was a brave Bully and deſerves to be <hi>Worſhipped,</hi> becauſe he had the wit to make his <hi>Paradice</hi> a <hi>Seraglio,</hi> and the Joyes of the <hi>Bliſs</hi> to con<g ref="char:EOLhyphen"/>ſiſt of plump Wenches, <hi>&amp;c.</hi> The Devil has taught him <hi>Chymiſtry,</hi> where<g ref="char:EOLhyphen"/>by he can extract <hi>Baudry</hi> out of the moſt modeſt Language. So that he makes <hi>Cai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſpeak it, And turns Admonitions into obſcenity. For his mind is a Room hung round with <hi>Aretines</hi> Pictures, and the Contemplation of them is all his Devotion: Every thing with him is an incentive to Luſt, and <hi>every Woman</hi> Devil enough to tempt him, <hi>Covent-Garden Silk-Gowns,</hi> and <hi>Wapping Wast-coateers,</hi> are equally his Game, for he watches <hi>Wenches</hi> juſt as <hi>Tumblers</hi> do <hi>Rabbets,</hi> and plays with Women as he does at <hi>Cards,</hi> not caring what Sult he <hi>turns up Trump.</hi>
+            </p>
+            <p>All his Talk is <hi>Rhodomontade</hi> and <hi>Bounce,</hi> calling a Noble-man <hi>Jack</hi> as familiarly as his Foot-boy, and ſeldom naming a <hi>Lord</hi> without adding, <hi>My Cozen:</hi> Whatever he does, he cries is <hi>like a Gentleman,</hi> and indeed tis only like it as a <hi>Broakers</hi> Ware is to a <hi>Mercers,</hi> or <hi>Long-lane</hi> compar'd to <hi>Cheap<g ref="char:EOLhyphen"/>ſide;</hi> for he is a Wit of an under Region, that does but <hi>Zany</hi> the truly
+<pb n="2" facs="tcp:103770:2"/>
+               <hi>Brave</hi> and <hi>Noble,</hi> groſly imitating on the Low Rope, what t'other does near<g ref="char:EOLhyphen"/>ly on the Higher. He Confers Titles of <hi>Honour</hi> on all his <hi>ſhabby</hi> Compa<g ref="char:EOLhyphen"/>nions, to create himſelf the greater eſteem with his <hi>Land-Lady</hi> (who adores him as a more accompliſht Knight, than ſhe ever met with in <hi>Pariſmus</hi> or <hi>Amadis</hi> of <hi>Gaul.</hi>) And when he is going to take a <hi>Run</hi> with a Common <hi>Crack</hi> in the <hi>Park,</hi> Swears he has an <hi>Aſſignation</hi> from a <hi>Lady of extraordina<g ref="char:EOLhyphen"/>ry Quality.</hi> His <hi>Hangers on</hi> call him Man of <hi>Blood,</hi> and by his own Report he is as ſtout as a <hi>Turkey-Cock,</hi> yet, he never was in any Service, but building <hi>Sconces;</hi> nor <hi>Duel,</hi> but with his own Foot-boy or a <hi>Drawer;</hi> for he is ſo <hi>Prudent</hi> as not to Exerciſe his Courage againſt any that dare <hi>turn again,</hi> and has got more <hi>Baſtards</hi> than ever he made Fatherleſs Children; yet perhaps at firſt he will be <hi>Saucy,</hi> and bluſter like the four Winds in Painting, but if you begin to be as high as he, ſtrait the <hi>Bubble</hi> breaks, and then he <hi>Swears, — I Gad ſir, I ever honoured you, but you are a paſſionate Gentle<g ref="char:EOLhyphen"/>man, and will not underſtand a jeſt.</hi>
+            </p>
+            <p>Think not becauſe I repeat ſo oft <hi>he Swears,</hi> that I Tautologize in his Character, tis only to make the Picture more like the <hi>Life,</hi> for all his Diſ<g ref="char:EOLhyphen"/>courſes are Butter'd with <hi>Oaths,</hi> which he uſes <hi>Euphoniae gratia,</hi> and is as cu<g ref="char:EOLhyphen"/>rious in their <hi>Newneſs</hi> as the <hi>Fabon:</hi> In which he ſeems a Kinſman to the <hi>Man in the Moon,</hi> for every Moneth he's in a New Mode, and inſtead of true <hi>Gallantry</hi> (which once dwelt in the Breaſts of <hi>Engliſhmen</hi>) he is made up of Complements, <hi>Cringes, Knots, Fancies, Perfumes,</hi> and a thouſand <hi>French</hi> Apiſh Tricks, which render him only fit to be ſet on a Farmers <hi>Hovel</hi> to ſcare away Crows. He placeth his very <hi>Eſſence</hi> in his outſide, and his only Prayers are, that his <hi>Father</hi> may go to the Devil <hi>expeditiouſly,</hi> and the Eſtate hold out to keep his <hi>Miſs,</hi> and himſelf in good <hi>Equipage.</hi> He thinks it the rankeſt Hereſie in the World, to believe any Man can be <hi>Wiſe</hi> or <hi>Noble,</hi> that is in plain Cloaths. And therefore looks down with Con<g ref="char:EOLhyphen"/>tempt on every body, whoſe <hi>Wigg</hi> is not right <hi>Flaxon;</hi> And calls the whole <hi>Tribe of Levy</hi> dull Fellows, becauſe they go in <hi>Black,</hi> and wonders any People ſhould think they can ever ſpeak <hi>Sence,</hi> When they wear nei<g ref="char:EOLhyphen"/>ther <hi>Lac'd Crevats,</hi> nor <hi>Pantaloons.</hi>
+            </p>
+            <p>To trace him <hi>ab origine,</hi> His Breeding was under the wing of a too In<g ref="char:EOLhyphen"/>dulgent <hi>Mother,</hi> who took a World of pains to make him a <hi>Fool,</hi> and at<g ref="char:EOLhyphen"/>tain'd her end at the Age of Diſcretion. At School he learn'd only how to Rob Orchards, and the Generoſity of Bribing other Boys to make his <hi>Exerciſe.</hi> And ſtaid at the <hi>Univerſity</hi> juſt long enough to <hi>Commence Drun<g ref="char:EOLhyphen"/>kard,</hi> and get by heart the name of his <hi>Colledge</hi> to vapour with; from thence be poſted to one of the <hi>Inns of Court;</hi> but in four Years time, never read ſix Lines in <hi>Littleton,</hi> for he lov'd a <hi>Placket</hi> better than a <hi>Moot-caſe,</hi> and was more in his <hi>Mercers</hi> Books, than in <hi>Cocks,</hi> or <hi>Plowdeas.</hi> For <hi>Learning</hi> he ſays is <hi>Pedantry,</hi> unbecoming a Gentleman; and <hi>Law,</hi> a thing fit on<g ref="char:EOLhyphen"/>ly for <hi>Draggle-tayld Gown-men,</hi> that have no way of raiſing a Fortune, but by ſetting (two civil Gentlemen) <hi>John-a-Noaks,</hi> and <hi>John-a-Stiles</hi> together by the Ears: He has got a ſhorter Cut to all Arts and Sciences, than <hi>Ray<g ref="char:EOLhyphen"/>mund Lully,</hi> with his <hi>Ars Mirabilis;</hi> and thinks the Seven Wiſe-Men of <hi>Greece,</hi> meer <hi>Ignoramuſſes,</hi> to one that underſtands the <hi>Humours of the Town.</hi> 'Tis but wearing <hi>Faſhionable Cloaths,</hi> talking <hi>loud,</hi> and Laughing at all one does not <hi>underſtand,</hi> and the <hi>buſineſs</hi> is done.</p>
+            <p>His whole Library conſiſts of the <hi>Academy of Complements, Venus un<g ref="char:EOLhyphen"/>dreſs'd,
+<pb n="3" facs="tcp:103770:2"/>Weſtminſter Drollery,</hi> half a dozen <hi>Plays,</hi> and a Bundle of <hi>Bawdy</hi> Songs in <hi>Manuſcript,</hi> yet he's a ſhrew'd <hi>Linguiſt.</hi> Impudence he calls the <hi>Boon Aſſurance,</hi> and unmannerlineſs, the <hi>Genteel Negligence.</hi> He talks no<g ref="char:EOLhyphen"/>thing but <hi>Intrigues, Guſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s, Garnitures, Repartees</hi> and ſuch modiſh <hi>Fustian,</hi> which he Hedges in on all occaſions, or indeed without any, and if you bar but <hi>forty words,</hi> you ſtrike him <hi>Dumb.</hi> He admires the Eloquence of, <hi>Son of a Whore,</hi> when 'tis pronounced with a good Grace, and therefore applyes it to <hi>every</hi> thing; So that if his <hi>Pipe</hi> be faulty, or his <hi>Purge</hi> Gripe too much, 'Tis a <hi>Son of a Whores Pipe,</hi> and a <hi>Spawn of a Bitches Purge.</hi> For <hi>New-minted Phraſes</hi> he has much enricht our Language: 'Twas he brought, <hi>I beg your Diverſion,</hi> into faſhion, and may have a Patent for the ſole uſe (as firſt Inventer) of that Noble Complement, <hi>Let me be Damn'd, and my Body made a Gridiron to Broil my Soul on, to Eternity, If I do not Ma<g ref="char:EOLhyphen"/>dam, love you confoundedly.</hi>
+            </p>
+            <p>Till Noon he lies a <hi>bed,</hi> to digeſt his over-nights <hi>Debaucht,</hi> and then having <hi>Drest</hi> himſelf, and paid half an hours Adoration to his own ſweet <hi>Image</hi> in the <hi>Looking-glaſs,</hi> he <hi>Trails</hi> along the Streets, <hi>obſerving</hi> who <hi>ob<g ref="char:EOLhyphen"/>ſerves</hi> him, to the <hi>French Ordinary,</hi> where he ſwills his Paunch with good <hi>Cheer</hi> and <hi>Burgunds,</hi> and tells at Dinner, how his <hi>Phyſick</hi> workt laſt night, and Swears never any <hi>Clap</hi> plagu'd him half ſo much as that he has now upon him. Curſing his <hi>Doctor</hi> for a <hi>Quacking-Bastard,</hi> that underſtands a Gentlemans <hi>Diſeaſe</hi> no more than a <hi>Farryer.</hi> After this, the Coach is call'd to hurry him to the <hi>Play-houſe,</hi> where he advances into the middle of the <hi>Pit,</hi> ſtruts about a while, to render his good parts Conſpicuous, pulls out his <hi>Comb, Carreens</hi> his <hi>Wigg, Hums</hi> the <hi>Orange-Wench,</hi> to give her, her own rates for her <hi>China-Fruit,</hi> and immediately <hi>Sacrifices</hi> the faireſt of them, to the ſhrine of the <hi>next Vizor Mask.</hi> Then gravely ſits down, and falls half <hi>aſleep,</hi> unleſs ſome <hi>petulant Wench</hi> hard by, keep him awake with treading on his <hi>Toe,</hi> or a <hi>wanton</hi> Complement; Yet all on a ſudden to ſhew his <hi>Judgment,</hi> and prove himſelf at once a <hi>Wit</hi> and a <hi>Critick,</hi> he ſtarts up, and with a Tragical Face, <hi>Damns the Play,</hi> though he have not <hi>heard</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at leaſt <hi>understood</hi> two Lines of it. However, when 'tis done, he picks up a <hi>Miſs,</hi> and pinching her fingers in a ſoft Tone, and looks moſt abomina<g ref="char:EOLhyphen"/>bly <hi>Languiſhing,</hi> he Whiſpers, <hi>Damn me, Madam! If you were but ſenſi<g ref="char:EOLhyphen"/>ble, and all that of the Paſſion I have for you; and the Flames which your irreſistable Charms, and all that have kindled in my Breast, you would be merciful, and Honour me with your Angelical Company, to take a Draught of Loves Poſſet at next Tavern.</hi> But if he finds her honeſt, and cannot pre<g ref="char:EOLhyphen"/>vail, then he cries aloud, <hi>Damn ye for a Puritanical Whore, what make you in the Pit here: The Twelve-penny Gallery with Camblet Cloaks, and Foot-boys is good enough for you.</hi> And ſo raiſes his Seige, and leaves her.</p>
+            <p>Whither he goes next, I dare not follow him, for 'tis certainly a <hi>Baw<g ref="char:EOLhyphen"/>dy-houſe,</hi> by what Name or Title ſoever it may be <hi>Dignified</hi> or <hi>Diſtingui<g ref="char:EOLhyphen"/>ſhed:</hi> Here he meets a Squadron of his Fellow <hi>Gallants,</hi> and having height<g ref="char:EOLhyphen"/>ned their Spirits with Jollity and Wine, they are fit for any thing but <hi>Ci<g ref="char:EOLhyphen"/>vility:</hi> And when they vouchſafe to Ramble homewards, about One or Two a Clock in the Morning, they ſet up the dreadful <hi>Sa, ſa,</hi> more dangerous to meet, than an <hi>Indian</hi> Running a <hi>Muck.</hi> In theſe Heroick humours hath many a <hi>Watch-man</hi> had his <hi>Horns</hi> Batter'd about his Ears;
+<pb n="4" facs="tcp:103770:3" rendition="simple:additions"/>and the trembling <hi>Conſtable</hi> been put beſides the Gravity of his Interroga<g ref="char:EOLhyphen"/>tories, and forced to meaſure his Length upon the Ground. The firſt <hi>man</hi> they meet they Swear to <hi>Kill,</hi> and ſet all the <hi>Women</hi> on their Heads; and ſo they proceed till the ratling of Broken <hi>Glaſs Windows,</hi> the ſhreiks of diſtreſſed <hi>Damoſels,</hi> and the Thunder of their own <hi>Oaths,</hi> and Execra<g ref="char:EOLhyphen"/>tions, fills all the <hi>Neighbour-hood</hi> with horror, and makes them verily Con<g ref="char:EOLhyphen"/>clude, That the <hi>Devil</hi> and all his Life-Guard are going a <hi>Proceſſioning.</hi>
+            </p>
+            <p>Next Morning, his <hi>Taylor,</hi> his <hi>Mercer,</hi> his <hi>Haberdaſher,</hi> and his <hi>Sempireſs,</hi> ſtand all like a Guard of <hi>Switzers</hi> about his Chamber door, waiting his Up<g ref="char:EOLhyphen"/>riſing: To avoid the <hi>Gauling</hi> of whoſe ſmall Shot, He inſtantly diſpatches a Light Horſe-man, to call Mr. <hi>Gliſter-pipe</hi> his Apothecary, Who encoun<g ref="char:EOLhyphen"/>tring this deſperate Band of Creditors, only with two or three <hi>Glaſſes,</hi> as though that day he had <hi>Purged,</hi> drives them all to their Holes, like ſo ma<g ref="char:EOLhyphen"/>ny <hi>Foxes.</hi> For the name of Phyſick is the only <hi>Amulet</hi> againſt a <hi>Dun,</hi> and a ſufficient <hi>Quietus <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt,</hi> to any beleaguer'd Gentleman.</p>
+            <p>Thus the <hi>Iliads</hi> of our <hi>Gallants</hi> Accompliſhments, may be Crampt up in a Nut-ſhell. His three <hi>Cardinal</hi> Vertues, being only <hi>Swearing, Wench<g ref="char:EOLhyphen"/>ing,</hi> and <hi>Drinking;</hi> and if other mens lives may be compared to a <hi>Play,</hi> his is certainly but a <hi>Farce,</hi> which is acted only on three <hi>Scenes.</hi> The <hi>Or<g ref="char:EOLhyphen"/>dinary,</hi> the <hi>Play-Houſe,</hi> and the <hi>Tavern.</hi> His Religion (for now and then he will be pratling of that too) is pretendedly <hi>Hobbian:</hi> And he Swears the <hi>Leviathan</hi> may ſupply all the loſt Leaves of <hi>Solomon,</hi> yet he never ſaw it in his life, and for ought he knows, it may be a <hi>Treatiſe</hi> about catch<g ref="char:EOLhyphen"/>ing of <hi>Sprats,</hi> or new Regulating the <hi>Green-land</hi> Fiſhing Trade. However the Rattle of it at <hi>Coffee-houſes,</hi> has taught him to Laugh at <hi>Spirits,</hi> and maintain that there are no <hi>Angels</hi> but thoſe in <hi>Petticoats:</hi> And therefore he defies <hi>Heaven</hi> worſe than <hi>Maximine;</hi> imagines <hi>Hell,</hi> only a <hi>Hot houſe</hi> to Flux in for a <hi>Clap,</hi> and calls the <hi>Devil,</hi> the Parſons <hi>Bugbear,</hi> and ſome<g ref="char:EOLhyphen"/>times the <hi>Civil Old Gentleman in Black.</hi> He denies there is any Eſſenti<g ref="char:EOLhyphen"/>al Difference betwixt <hi>Good</hi> and <hi>Evil,</hi> deems <hi>Conſcience</hi> a thing only fit for <hi>Children,</hi> and aſcribes all <hi>Honeſty</hi> to <hi>ſimplicity,</hi> and an unpractiſneſs in the <hi>Ways</hi> and <hi>Methods</hi> of the Town.</p>
+            <p>By theſe Extravagancies does he <hi>Signalize</hi> himſelf above Common Mor<g ref="char:EOLhyphen"/>tals, and counts all other <hi>Dunghil-Spirited</hi> Fops, that are not as madly <hi>Wild</hi> and <hi>Wicked</hi> as himſelf. Thus is <hi>Civility, Vertue,</hi> and <hi>Religion, booted</hi> out of the World, and <hi>Folly,</hi> and <hi>Atheiſme</hi> exalted and promoted: For this is the <hi>Bell-Weather</hi> of Gallantry, whom our Younger <hi>Fry</hi> of Gentlemen ad<g ref="char:EOLhyphen"/>mire for a <hi>Hero.</hi> And by theſe Arts does a man now a days come to be counted a Perſon <hi>well bred,</hi> and fit for a generous <hi>Converſation,</hi> though in Truth 'tis only his <hi>Estate</hi> that Guids his Vanity, and his <hi>Purſe</hi> that can Compound for his Follies; for of himſelf he is a <hi>painted Butter-flye:</hi> A <hi>Baboon,</hi> uſurping Humane Shape; or (to uſe his own ſilly naſtly Phraſe) <hi>Mine A—ſe all over.</hi> And ſo I leave him <hi>behind</hi> me, till I meet him next time, either in the <hi>Kings-Bench</hi>-Walks, or an <hi>Hoſpital.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Rowland Reynolds</hi> in the <hi>Strand,</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
